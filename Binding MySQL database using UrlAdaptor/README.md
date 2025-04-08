@@ -1,6 +1,6 @@
-## Angular Grid MYSQL connectivity using URLAdaptor
+## JavaScript Grid MYSQL connectivity using URLAdaptor
 
-A project that enables data binding and CRUD action handling in the Syncfusion Angular Grid to a MYSQL Server using URLAdaptor feature of the Grid.
+A project that enables data binding and CRUD action handling in the Syncfusion JavaScript Grid to a MYSQL Server using URLAdaptor feature of the Grid.
 
 ## Steps to Run the Sample
 
@@ -8,7 +8,7 @@ A project that enables data binding and CRUD action handling in the Syncfusion A
 
 2. Replace the connected database's connection string in the `GridController.cs` file.
 
-3. In the Angular client project, open `app.component.ts` and replace the port number in the API URL where it says `xxxx` with the actual backend server port.
+3. In the JavaScript client project, open `js/index.js` and replace the port number in the API URL where it says `xxxx` with the actual backend server port.
 
 4. Navigate to the client project folder and run the following command:
 
