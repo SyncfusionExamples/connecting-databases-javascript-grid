@@ -1,0 +1,26 @@
+﻿import { CustomAdaptor } from './CustomAdaptor.js';
+
+let data = new ej.data.DataManager({
+    url: 'https://localhost:7224/api/Grid',
+    insertUrl: 'https://localhost:7224/api/Grid/Insert',
+    updateUrl: 'https://localhost:7224/api/Grid/Update',
+    removeUrl: 'https://localhost:7224/api/Grid/Remove',
+    batchUrl: 'https://localhost:7224/api/Grid/BatchUpdate',
+    adaptor: new CustomAdaptor()
+});
+var grid = new ej.grids.Grid({
+    dataSource: data,
+    toolbar: ['Add', 'Edit', 'Delete', 'Update', 'Cancel', 'Search'],
+    allowPaging: true,
+    allowSorting: true,
+    allowFiltering: true,
+    editSettings: { allowEditing: true, allowAdding: true, allowDeleting: true, mode: 'Normal' },
+    columns: [
+        { field: 'OrderID', headerText: 'Order ID', textAlign: 'Right', width: 120, isIdentity: true, isPrimaryKey: true, type: 'number' },
+        { field: 'CustomerID', width: 140, headerText: 'Customer ID', type: 'string' },
+        { field: 'EmployeeID', headerText: 'Employee ID', width: 120, textAlign: 'Right' },
+        { field: 'Freight', headerText: 'Freight', width: 90, format: 'C2', textAlign: 'Right', type: 'number' },
+        { field: 'ShipCity', headerText: 'ShipCity', width: 140 },
+    ]
+});
+grid.appendTo('#Grid');
