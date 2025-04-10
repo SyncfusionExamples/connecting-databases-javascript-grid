@@ -1,0 +1,6 @@
+@SQLite_Js_HostAddress = http://localhost:5000
+
+GET {{SQLite_Js_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
