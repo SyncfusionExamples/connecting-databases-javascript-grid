@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E85261B5-F8E1-4BD2-B4BF-4EEF009B52B7}|Grid_MSSQL\\Grid_MSSQL.csproj|d:\\component\\ej2\\js\\connecting-databases-javascript-grid\\binding ms sql database using urladaptor\\grid_mssql\\grid_mssql\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E85261B5-F8E1-4BD2-B4BF-4EEF009B52B7}|Grid_MSSQL\\Grid_MSSQL.csproj|solutionrelative:grid_mssql\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85261B5-F8E1-4BD2-B4BF-4EEF009B52B7}|Grid_MSSQL\\Grid_MSSQL.csproj|d:\\component\\ej2\\js\\connecting-databases-javascript-grid\\binding ms sql database using urladaptor\\grid_mssql\\grid_mssql\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85261B5-F8E1-4BD2-B4BF-4EEF009B52B7}|Grid_MSSQL\\Grid_MSSQL.csproj|solutionrelative:grid_mssql\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85261B5-F8E1-4BD2-B4BF-4EEF009B52B7}|Grid_MSSQL\\Grid_MSSQL.csproj|d:\\component\\ej2\\js\\connecting-databases-javascript-grid\\binding ms sql database using urladaptor\\grid_mssql\\grid_mssql\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E85261B5-F8E1-4BD2-B4BF-4EEF009B52B7}|Grid_MSSQL\\Grid_MSSQL.csproj|solutionrelative:grid_mssql\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85261B5-F8E1-4BD2-B4BF-4EEF009B52B7}|Grid_MSSQL\\Grid_MSSQL.csproj|d:\\component\\ej2\\js\\connecting-databases-javascript-grid\\binding ms sql database using urladaptor\\grid_mssql\\grid_mssql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85261B5-F8E1-4BD2-B4BF-4EEF009B52B7}|Grid_MSSQL\\Grid_MSSQL.csproj|solutionrelative:grid_mssql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85261B5-F8E1-4BD2-B4BF-4EEF009B52B7}|Grid_MSSQL\\Grid_MSSQL.csproj|d:\\component\\ej2\\js\\connecting-databases-javascript-grid\\binding ms sql database using urladaptor\\grid_mssql\\grid_mssql\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E85261B5-F8E1-4BD2-B4BF-4EEF009B52B7}|Grid_MSSQL\\Grid_MSSQL.csproj|solutionrelative:grid_mssql\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "Grid_MSSQL\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL\\Controllers\\GridController.cs",
+              "RelativeToolTip": "Grid_MSSQL\\Controllers\\GridController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAPIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:53:30.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Grid_MSSQL\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Grid_MSSQL\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T09:52:07.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL\\Program.cs",
+              "RelativeDocumentMoniker": "Grid_MSSQL\\Program.cs",
+              "ToolTip": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL\\Program.cs",
+              "RelativeToolTip": "Grid_MSSQL\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:52:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL\\wwwroot\\js\\index.js",
+              "RelativeDocumentMoniker": "Grid_MSSQL\\wwwroot\\js\\index.js",
+              "ToolTip": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL\\wwwroot\\js\\index.js",
+              "RelativeToolTip": "Grid_MSSQL\\wwwroot\\js\\index.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-04T09:51:32.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Grid_MSSQL\\wwwroot\\index.html",
+              "ToolTip": "D:\\Component\\EJ2\\JS\\connecting-databases-javascript-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL\\wwwroot\\index.html",
+              "RelativeToolTip": "Grid_MSSQL\\wwwroot\\index.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-04T09:51:23.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
